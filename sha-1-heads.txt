@@ -1,0 +1,12 @@
+ master       0ab307a Adauga index.html
+  newbranch    0ab307a Adauga index.html
+  newbranch_1  88f89e5 primul branch java
+  newbranch_10 7083712 primul branch python
+  newbranch_2  8f31ce2 primul branch c
+  newbranch_3  5e11c55 primul branch c++
+  newbranch_4  c290ae5 primul branch c#
+  newbranch_5  2ee5d7b primul branch html
+  newbranch_6  52ee037 primul branch julia
+  newbranch_7  f90e12d primul branch logo
+  newbranch_8  86e9f94 primul branch delphi
+  newbranch_9  0a2d10f primul branch matlab
